@@ -22,7 +22,7 @@ Este projeto nasceu de uma inquietação pessoal: **as nossas escolhas no superm
 ## 🔍 Principais Descobertas (Os 5 Pilares)
 
 ### 1. O Paradoxo das Marcas de Distribuidor (MDD) vs. Marcas Líderes
-Derrubei o preconceito de que o "mais barato" é nutricionalmente inferior. Ao comparar Marcas de Distribuidor (Pingo Doce, Continente, Lidl, etc.) com marcas líderes, os dados mostraram uma **equivalência quase total** nos teores de açúcar e proteína. 
+Foi possível explorar o cenário nutricional do produtos em Portugal através desta pesquisa, um dos objetivos centrais foi desmistificar a ideia de que o preço mais baixo das Marcas de Distribuidor (as chamadas "marcas brancas") estaria associado a uma qualidade nutricional inferior. Ao comparar essas marcas com marcas líderes, os dados mostraram uma **equivalência quase total** nos teores de açúcar e proteína. 
 > **Insight:** Em Portugal, a marca própria é uma decisão de poupança inteligente sem perda de qualidade básica.
 
 ### 2. A "Armadilha" do Açúcar Oculto por Categoria
