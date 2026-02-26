@@ -7,7 +7,8 @@
 ![BigQuery](https://img.shields.io/badge/Google_BigQuery-Cloud_Data-white?style=for-the-badge&logo=google-cloud)
 ![Open Food Facts](https://img.shields.io/badge/Dataset-Open_Food_Facts-orange?style=for-the-badge)
 
-<img src="https://images.unsplash.com/photo-1498837167922-ddd27525d352?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" width="700" alt="Nutritional Analysis Banner">
+<img src=![Nutriscore](https://github.com/user-attachments/assets/37255503-a71e-4a51-a489-c5007ccdcdbe)>
+
 
 </div>
 
