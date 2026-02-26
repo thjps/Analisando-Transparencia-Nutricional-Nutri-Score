@@ -7,8 +7,8 @@
 ![BigQuery](https://img.shields.io/badge/Google_BigQuery-Cloud_Data-white?style=for-the-badge&logo=google-cloud)
 ![Open Food Facts](https://img.shields.io/badge/Dataset-Open_Food_Facts-orange?style=for-the-badge)
 
-[Nutriscore](https://github.com/user-attachments/assets/37255503-a71e-4a51-a489-c5007ccdcdbe)
 
+![Nutriscore](https://github.com/user-attachments/assets/dca12954-59c8-4a65-8464-212e542daab5)
 
 </div>
 
