@@ -1,4 +1,4 @@
-#Analisando Transparência Nutricional Para melhor Seleção de Produtos(Nutri-Score)
+Analisando Transparência Nutricional Para melhor Seleção de Produtos(Nutri-Score)
 ![Nutriscore](https://github.com/user-attachments/assets/8aedce9b-e85f-4a6a-ba76-9c8fdc2414c1)
 Este projeto nasceu de uma inquietação pessoal: será que as nossas escolhas no supermercado são baseadas em factos ou em marketing? Utilizando a base de dados do Open Food Facts, analisei milhares de produtos disponíveis em Portugal através de SQL (Google BigQuery) para encontrar padrões de qualidade, preço e as "armadilhas" escondidas nos rótulos.
 O meu objetivo foi simples: substituir a percepção pela evidência. Na ausência de um Nutri-Score padronizado em todos os produtos, utilizei os dados brutos de macronutrientes para criar a minha própria métrica de transparência.
