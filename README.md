@@ -38,6 +38,7 @@ Criei a métrica de **Densidade Proteica** (Proteína por 100kcal):
 ### 4. O Desafio do Sal em Portugal: Cumprimento de Metas
 O sal é o inimigo invisível. No setor da panificação, **4 em cada 10 pães** excedem o limite de 1.0g de sal por 100g. 
 * A média detetada de **1.1g** prova que o excesso de sódio é um padrão estrutural na padaria de prateleira portuguesa.
+* Entretanto, segundo a DGS, os alimentos processados entram em estado de alerta acima dos 1,5g de sal/100g. A nossa análise mostra que o Pão (1.1g) e os Snacks (1.13g) estão dentro deste limite regulamentar. No entanto, como a OMS recomenda um máximo de 5g diários, o consumo de apenas 100g de pão já esgota mais de 20% da cota diária de sal de um adulto, destacando a necessidade de moderação nestas categorias.
 
 ### 5. Oportunidade de Mercado: O "Vazio" dos Ultraprocessados Saudáveis
 Os dados provam a correlação: quanto mais ingredientes, maior a degradação.
